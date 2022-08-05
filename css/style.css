@@ -1,0 +1,51 @@
+
+.txtc-brown{
+   color: #c59424;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+.fs-xlarge{
+    font-size:x-large;
+}
+
+.mb-0{
+    margin-bottom: 0px;
+}
+.pb-0{
+    padding-bottom: 0px;
+}
+
+.text-purple{
+    color: #7e24d4;
+}
+
+.mt-10{
+    margin-top: -50px;
+}
+
+.pad-10{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.pill{
+    background-color: grey; 
+    color: white; 
+    font-size: 10px;
+}
+
+#cc{
+    position: relative;
+    text-align:end;
+  }
+
+  .card-title{
+    color: #7e24d4;
+  }
+
+  .fs-ct{
+    font-size:x-large;
+  }
